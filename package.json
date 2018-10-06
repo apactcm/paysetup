@@ -2,13 +2,13 @@
   "name": "spaygate",
   "description":
     "Accept Payment",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "author": "Romain Huet/APACTCM",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stripe/stripe-payments-demo.git"
+    "url": "https://github.com/apactcm/paysetup.git"
   },
   "engines": {
     "node": "8.x"
