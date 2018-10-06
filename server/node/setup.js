@@ -26,7 +26,7 @@ module.exports = {
           // Increment Magazine.
           const membership = await stripe.products.create({
             id: 'increment',
-            type: 'service',
+            type: 'good',
             name: '会员服务',
             attributes: ['issue'],
           });
