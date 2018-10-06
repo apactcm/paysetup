@@ -1,10 +1,10 @@
 {
-  "name": "stripe-payments-demo",
+  "name": "spaygate",
   "description":
-    "Sample store accepting universal payments on the web with Stripe Elements, Payment Request, Apple Pay, Google Pay, Microsoft Pay, and the Sources API.",
-  "version": "0.0.1",
+    "Accept Payment",
+  "version": "0.0.2",
   "private": true,
-  "author": "Romain Huet",
+  "author": "Romain Huet/APACTCM",
   "license": "MIT",
   "repository": {
     "type": "git",
